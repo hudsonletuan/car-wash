@@ -14,6 +14,3 @@ The program specifications are as follows. The program has three input items:
 The program produces two outputs, based on its computations:
 1. The number of customers served during the simulation time
 2. The average waiting time for customers during the simulation, in seconds
-
-In this assignment, you'll use a queue (and a few other objects) to manage the
-simulation.
